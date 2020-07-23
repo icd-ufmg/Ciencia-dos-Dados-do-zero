@@ -1,0 +1,65 @@
+
+NAME:  Population at Risk and Death Rates for an Unusual Episode
+TYPE:  Complete record for all of population at risk
+SIZE:  2201 observations, 4 variables
+
+DESCRIPTIVE ABSTRACT:
+For each person on board the fatal maiden voyage of the ocean liner
+Titanic, this dataset records sex, age [adult/child], economic status
+[first/second/third class, or crew] and whether or not that person
+survived.
+
+SOURCE:
+"Report on the Loss of the `Titanic' (S.S.)" (1990), _British Board of
+Trade Inquiry Report_ (reprint), Gloucester, UK: Allan Sutton
+Publishing.
+
+VARIABLE DESCRIPTIONS:
+Column
+   1	 Class (0 = crew, 1 = first, 2 = second, 3 = third)
+  10 	 Age   (1 = adult, 0 = child)
+  19	 Sex   (1 = male, 0 = female)
+  28	 Survived (1 = yes, 0 = no)
+
+Values are aligned and delimited by blanks.  There are no missing
+values.
+
+SPECIAL NOTES:
+There is not complete agreement among primary sources as to the exact
+numbers on board, rescued, or lost.
+
+STORY BEHIND THE DATA:
+The sinking of the Titanic is a famous event, and new books are still
+being published about it.  Many well-known facts--from the proportions
+of first-class passengers to the "women and children first" policy, and
+the fact that that policy was not entirely successful in saving the
+women and children in the third class--are reflected in the survival
+rates for various classes of passenger.  These data were originally
+collected by the British Board of Trade in their investigation of the
+sinking.
+
+PEDAGOGICAL NOTES:
+These data make an interesting exercise if given to a class without
+their context, which the students must attempt to discover.  The
+instructor will probably want to answer questions from the class,
+"Twenty Questions" style.
+
+There is a similar set of data circulating without any detailed
+explanation or compiler's name attached, under the same title, which
+omits the crew (and does not agree with any of the primary sources that
+I was able to find.)  Credit for the original idea goes to the
+originator of that exercise:  my version is merely an attempt to
+provide a more complete context.
+
+Additional information about these data can be found in the "Datasets
+and Stories" article "The `Unusual Episode' Data Revisited" in the
+_Journal of Statistics Education_ (Dawson 1995).  
+
+SUBMITTED BY:
+Robert J. MacG. Dawson
+Department of Mathematics and Computing Science
+Saint Mary's University
+Halifax, Nova Scotia  B3H 3C3
+CANADA
+rdawson@husky1.stmarys.ca
+

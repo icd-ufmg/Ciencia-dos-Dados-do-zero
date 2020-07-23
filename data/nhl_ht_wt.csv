@@ -1,0 +1,718 @@
+Team,Player,Position,Height,Weight,Age,BirthNation
+Anaheim Ducks,Jacob Trouba   **,Defenseman,74,200,20, USA
+Anaheim Ducks,Johnny Oduya  ,Defenseman,72,188,33, SWE
+Anaheim Ducks,Paul Postma  ,Defenseman,75,195,25, CAN
+Anaheim Ducks,Alex Galchenyuk  ,C,73,198,20, USA
+Anaheim Ducks,Scott Hartnell  ,L,74,210,32, CAN
+Anaheim Ducks,"David Backes ""C"" ",C,75,221,30, USA
+Anaheim Ducks,Mark Stone  ,R,74,205,22, CAN
+Anaheim Ducks,Sam Gagner  ,C,71,202,25, CAN
+Anaheim Ducks,Adam Henrique  ,C,72,195,24, CAN
+Anaheim Ducks,Justin Abdelkader  ,L,74,218,27, USA
+Anaheim Ducks,Ryan Reaves  ,R,73,224,27, CAN
+Anaheim Ducks,"Ryan Suter ""A"" ",Defenseman,73,200,29, USA
+Anaheim Ducks,Robin Lehner  ,Goalie,77,225,23, SWE
+Anaheim Ducks,Brent Burns  ,Defenseman,77,230,29, CAN
+Anaheim Ducks,Mike Richards  ,C,71,196,29, CAN
+Anaheim Ducks,Bryan Little  ,C,71,189,27, CAN
+Anaheim Ducks,Jeremy Morin  ,L,73,189,23, USA
+Anaheim Ducks,Andrew Shaw  ,C,71,179,23, CAN
+Anaheim Ducks,Erik Gudbranson  ,Defenseman,77,216,23, CAN
+Anaheim Ducks,Joe Colborne  ,C,77,213,24, CAN
+Anaheim Ducks,Adam Lowry  ,L,77,207,21, USA
+Anaheim Ducks,Filip Forsberg  ,C,73,186,20, SWE
+Anaheim Ducks,Nikita Nesterov  ,Defenseman,72,183,21, RUS
+Anaheim Ducks,Carl Soderberg  ,C,75,216,29, SWE
+Arizona Coyotes,Oscar Klefbom  ,Defenseman,75,210,21, SWE
+Arizona Coyotes,TJ Brodie  ,Defenseman,73,182,24, CAN
+Arizona Coyotes,Brock Nelson  ,C,75,206,23, USA
+Arizona Coyotes,Marcus Kruger  ,C,72,186,24, SWE
+Arizona Coyotes,Cedric Paquette  ,C,73,198,21, CAN
+Arizona Coyotes,"Ryan Getzlaf ""C"" ",C,76,218,29, CAN
+Arizona Coyotes,Kris Russell  ,Defenseman,70,173,27, CAN
+Arizona Coyotes,"Andrew Ladd ""C"" ",L,75,200,29, CAN
+Arizona Coyotes,Niklas Backstrom  ,Goalie,74,194,36, FIN
+Arizona Coyotes,Scott Harrington  ,Defenseman,74,201,21, CAN
+Arizona Coyotes,James van Riemsdyk  ,L,75,200,25, USA
+Arizona Coyotes,Anton Khudobin  ,Goalie,71,203,28, KAZ
+Arizona Coyotes,Mike Weber  ,Defenseman,74,212,27, USA
+Arizona Coyotes,Aaron Ekblad  ,Defenseman,76,216,18, CAN
+Arizona Coyotes,"Mark Streit ""A"" ",Defenseman,71,191,37, CHE
+Arizona Coyotes,Tyler Toffoli  ,C,73,196,22, CAN
+Arizona Coyotes,Roman Polak  ,Defenseman,72,236,28, CZE
+Arizona Coyotes,Ryan Miller  ,Goalie,74,168,34, USA
+Arizona Coyotes,Semyon Varlamov  ,Goalie,74,209,26, RUS
+Arizona Coyotes,Ryan Wilson   **,Defenseman,73,210,27, CAN
+Arizona Coyotes,"Matt Greene ""A"" ",Defenseman,75,234,31, USA
+Arizona Coyotes,Mike Weaver  ,Defenseman,70,186,36, CAN
+Arizona Coyotes,Brandon Sutter  ,C,75,190,25, USA
+Arizona Coyotes,Brayden Schenn  ,C,73,190,23, CAN
+Calgary Flames,Nikita Nikitin  ,Defenseman,76,217,28, RUS
+Calgary Flames,Andrew MacDonald  ,Defenseman,73,190,28, CAN
+Calgary Flames,Drew Stafford  ,R,74,214,29, USA
+Calgary Flames,Sean Monahan  ,C,74,185,20, CAN
+Calgary Flames,David Pastrnak  ,R,72,167,18, CZE
+Calgary Flames,Johnny Gaudreau  ,L,69,150,21, USA
+Calgary Flames,TJ Galiardi  ,L,74,185,26, CAN
+Calgary Flames,Viktor Stalberg  ,L,75,209,28, SWE
+Calgary Flames,"Brian Campbell ""A"" ",Defenseman,70,192,35, CAN
+Calgary Flames,Luke Glendening  ,C,71,194,25, USA
+Calgary Flames,Michael Lee  ,Goalie,73,185,24, USA
+Calgary Flames,Jason Chimera  ,L,75,213,35, CAN
+Calgary Flames,Jon Merrill  ,Defenseman,75,205,22, USA
+Calgary Flames,Ben Smith  ,R,71,199,26, USA
+Calgary Flames,Zemgus Girgensons  ,C,73,190,21, LVA
+Calgary Flames,Jaromir Jagr  ,R,75,230,42, CZE
+Calgary Flames,"Zdeno Chara ""C"" ",Defenseman,81,255,37, SVK
+Calgary Flames,David Perron  ,L,72,200,26, CAN
+Calgary Flames,Daniel Winnik  ,C,74,207,29, CAN
+Calgary Flames,Anton Volchenkov  ,Defenseman,73,220,32, RUS
+Calgary Flames,Jack Skille   **,R,73,216,27, USA
+Calgary Flames,Tuomo Ruutu   **,L,72,205,31, FIN
+Calgary Flames,Frederik Andersen  ,Goalie,75,236,25, DNK
+Calgary Flames,"Sidney Crosby ""C"" ",C,71,200,27, CAN
+Calgary Flames,Justin Fontaine  ,R,70,175,27, CAN
+Calgary Flames,Jay Bouwmeester  ,Defenseman,76,212,31, CAN
+Calgary Flames,Justin Schultz  ,Defenseman,74,196,24, CAN
+Edmonton Oilers,Sean Collins  ,C,73,198,26, CAN
+Edmonton Oilers,Alex Tanguay  ,L,73,194,35, CAN
+Edmonton Oilers,"Alex Ovechkin ""C"" ",R,75,230,29, RUS
+Edmonton Oilers,Tyler Bozak  ,C,73,195,28, CAN
+Edmonton Oilers,Jason Zucker  ,L,71,188,23, USA
+Edmonton Oilers,Aleksander Barkov  ,C,75,213,19, FIN
+Edmonton Oilers,Kyle Clifford  ,L,74,211,24, CAN
+Edmonton Oilers,Patrick Kaleta  ,R,73,198,28, USA
+Edmonton Oilers,Stephen Gionta   **,C,67,185,31, USA
+Edmonton Oilers,Patrik Nemeth   **,Defenseman,75,230,22, SWE
+Edmonton Oilers,R.J. Umberger  ,C,74,214,32, USA
+Edmonton Oilers,Teddy Purcell  ,R,74,198,29, CAN
+Edmonton Oilers,Karl Alzner  ,Defenseman,74,217,26, CAN
+Edmonton Oilers,Jake Muzzin  ,Defenseman,75,214,25, CAN
+Edmonton Oilers,Nathan Gerbe  ,L,65,178,27, USA
+Edmonton Oilers,Blake Wheeler  ,R,77,225,28, USA
+Edmonton Oilers,Dustin Byfuglien  ,Defenseman,77,260,29, USA
+Edmonton Oilers,Chris Higgins  ,L,72,205,31, USA
+Edmonton Oilers,"Niklas Kronwall ""A"" ",Defenseman,72,194,34, SWE
+Edmonton Oilers,Brian Flynn  ,C,73,180,26, USA
+Edmonton Oilers,Tomas Kopecky  ,R,75,210,32, SVK
+Edmonton Oilers,"Max Pacioretty ""A"" ",L,74,214,26, USA
+Edmonton Oilers,Christian Ehrhoff  ,Defenseman,74,205,32, DEU
+Los Angeles Kings,Jonathon Blum  ,Defenseman,73,188,25, USA
+Los Angeles Kings,Philip Varone  ,C,70,185,24, CAN
+Los Angeles Kings,Matt Dumba  ,Defenseman,72,189,20, CAN
+Los Angeles Kings,"Claude Giroux ""C"" ",C,71,172,27, CAN
+Los Angeles Kings,Thomas Hickey  ,Defenseman,72,190,25, CAN
+Los Angeles Kings,"Jack Johnson ""A"" ",Defenseman,73,238,28, USA
+Los Angeles Kings,"Alex Pietrangelo ""A"" ",Defenseman,75,201,24, CAN
+Los Angeles Kings,Simon Despres  ,Defenseman,76,214,23, CAN
+Los Angeles Kings,Brandon Saad  ,L,73,204,22, USA
+Los Angeles Kings,Chris VandeVelde  ,C,74,190,27, USA
+Los Angeles Kings,Mattias Ekholm  ,Defenseman,76,204,24, SWE
+Los Angeles Kings,Luke Schenn  ,Defenseman,74,229,25, CAN
+Los Angeles Kings,Roberto Luongo  ,Goalie,75,217,35, CAN
+Los Angeles Kings,Cody Eakin  ,C,72,190,23, CAN
+Los Angeles Kings,Derek Dorsett  ,R,72,192,28, CAN
+Los Angeles Kings,Ben Chiarot  ,Defenseman,75,215,23, CAN
+Los Angeles Kings,Martin Jones  ,Goalie,76,187,25, CAN
+Los Angeles Kings,"Mark Letestu ""A"" ",C,70,199,29, CAN
+Los Angeles Kings,Rob Klinkhammer  ,L,75,214,28, CAN
+Los Angeles Kings,Brett Bellemore  ,Defenseman,76,225,26, CAN
+Los Angeles Kings,"David Krejci ""A"" ",C,72,188,28, CZE
+Los Angeles Kings,Jonathan Ericsson  ,Defenseman,76,220,30, SWE
+Los Angeles Kings,Mark Fraser  ,Defenseman,76,220,28, CAN
+Los Angeles Kings,Jordan Nolan  ,C,75,221,25, CAN
+San Jose Sharks,Jakob Silfverberg  ,R,72,199,24, SWE
+San Jose Sharks,"Shea Weber ""C"" ",Defenseman,76,233,29, CAN
+San Jose Sharks,Shawn Thornton   **,L,74,217,37, CAN
+San Jose Sharks,Joni Ortio  ,Goalie,73,185,23, FIN
+San Jose Sharks,Zack Smith   **,C,74,210,26, CAN
+San Jose Sharks,Elias Lindholm  ,C,73,192,20, SWE
+San Jose Sharks,Scott Laughton  ,C,73,177,20, CAN
+San Jose Sharks,Benoit Pouliot  ,L,75,193,28, CAN
+San Jose Sharks,Brad Stuart  ,Defenseman,74,215,35, CAN
+San Jose Sharks,Brett Ritchie  ,R,75,220,21, CAN
+San Jose Sharks,Michal Neuvirth  ,Goalie,73,209,26, CZE
+San Jose Sharks,Jonathan Drouin  ,L,71,186,19, CAN
+San Jose Sharks,Jean-Gabriel Pageau  ,C,69,175,22, CAN
+San Jose Sharks,Bryan Bickell  ,L,76,223,28, CAN
+San Jose Sharks,David Legwand  ,C,74,205,34, USA
+San Jose Sharks,Joakim Nordstrom  ,C,73,189,22, SWE
+San Jose Sharks,Valeri Nichushkin   **,R,76,210,19, RUS
+San Jose Sharks,"Patrick Sharp ""A"" ",L,73,198,33, CAN
+San Jose Sharks,Sean Couturier  ,C,75,197,22, USA
+San Jose Sharks,David Desharnais  ,C,67,176,28, CAN
+San Jose Sharks,Kyle Brodziak  ,C,74,212,30, CAN
+San Jose Sharks,Olli Jokinen  ,C,74,210,36, FIN
+San Jose Sharks,Matt Ellis  ,L,72,208,33, CAN
+San Jose Sharks,Robyn Regehr   **,Defenseman,75,222,34, BRA
+San Jose Sharks,Corey Crawford  ,Goalie,74,216,30, CAN
+Vancouver Canucks,Korbinian Holzer  ,Defenseman,75,205,26, DEU
+Vancouver Canucks,Jordin Tootoo  ,R,69,195,31, CAN
+Vancouver Canucks,Alexander Edler  ,Defenseman,75,215,28, SWE
+Vancouver Canucks,Mattias Ohlund  ,Defenseman,76,233,38, SWE
+Vancouver Canucks,Lance Bouma  ,C,73,210,24, CAN
+Vancouver Canucks,Jacob Josefson  ,C,73,190,23, SWE
+Vancouver Canucks,Kyle Quincey  ,Defenseman,74,216,29, CAN
+Vancouver Canucks,Patrick Eaves   **,R,72,200,30, CAN
+Vancouver Canucks,Ryan Johansen  ,C,75,223,22, CAN
+Vancouver Canucks,Steve Bernier  ,R,75,215,29, CAN
+Vancouver Canucks,Alex Stalock  ,Goalie,72,190,27, USA
+Vancouver Canucks,Jamie McGinn   **,L,73,210,26, CAN
+Vancouver Canucks,"Wayne Simmonds ""A"" ",R,74,183,26, CAN
+Vancouver Canucks,Matt Duchene  ,C,71,200,24, CAN
+Vancouver Canucks,Rich Peverley  ,C,71,195,32, CAN
+Vancouver Canucks,"Kevin Bieksa ""A"" ",Defenseman,73,198,33, CAN
+Vancouver Canucks,Kyle Chipchura  ,C,74,203,28, CAN
+Vancouver Canucks,Kris Letang  ,Defenseman,72,201,27, CAN
+Vancouver Canucks,"Mikko Koivu ""C"" ",C,75,215,31, FIN
+Vancouver Canucks,Chris Summers  ,Defenseman,74,209,26, USA
+Vancouver Canucks,Drew Doughty  ,Defenseman,73,213,25, CAN
+Vancouver Canucks,Matthew Carle  ,Defenseman,72,205,30, USA
+Chicago Blackhawks,Anders Lindback  ,Goalie,78,215,26, SWE
+Chicago Blackhawks,Mike Smith  ,Goalie,76,215,32, CAN
+Chicago Blackhawks,"Patrik Elias ""A"" ",C,73,195,38, CZE
+Chicago Blackhawks,Marek Mazanec  ,Goalie,76,187,23, CZE
+Chicago Blackhawks,"Kyle Okposo ""A"" ",R,72,217,26, USA
+Chicago Blackhawks,Nate Prosser  ,Defenseman,74,203,28, USA
+Chicago Blackhawks,Colby Robak  ,Defenseman,75,194,24, CAN
+Chicago Blackhawks,Jared Spurgeon  ,Defenseman,69,176,25, CAN
+Chicago Blackhawks,Brendan Smith  ,Defenseman,74,211,25, CAN
+Chicago Blackhawks,"Josh Gorges ""A"" ",Defenseman,73,201,30, CAN
+Chicago Blackhawks,Ben Lovejoy  ,Defenseman,73,206,30, USA
+Chicago Blackhawks,Dustin Tokarski  ,Goalie,71,195,25, CAN
+Chicago Blackhawks,B.J. Crombeen  ,R,74,209,29, USA
+Chicago Blackhawks,Marc Savard   **,C,70,191,37, CAN
+Chicago Blackhawks,Jori Lehtera  ,C,74,210,27, FIN
+Chicago Blackhawks,Adam Larsson  ,Defenseman,75,205,22, SWE
+Chicago Blackhawks,Jamie Oleksiak  ,Defenseman,79,250,22, CAN
+Chicago Blackhawks,Tomas Hertl  ,C,74,210,21, CZE
+Chicago Blackhawks,Brenden Dillon  ,Defenseman,76,225,24, CAN
+Chicago Blackhawks,Nick Schultz  ,Defenseman,73,203,32, CAN
+Chicago Blackhawks,Mike Brown   **,R,71,205,29, USA
+Chicago Blackhawks,Sam Bennett  ,C,73,178,18, CAN
+Chicago Blackhawks,Andrej Sekera  ,Defenseman,72,201,28, SVK
+Chicago Blackhawks,Patrick Bordeleau   **,L,78,225,28, CAN
+Colorado Avalanche,Tyler Kennedy  ,R,71,185,28, CAN
+Colorado Avalanche,Nick Spaling  ,C,73,201,26, CAN
+Colorado Avalanche,Joey MacDonald  ,Goalie,72,197,34, CAN
+Colorado Avalanche,Craig Smith  ,C,73,202,25, USA
+Colorado Avalanche,Nick Bonino  ,C,73,196,26, USA
+Colorado Avalanche,"Brandon Dubinsky ""A"" ",C,74,216,28, USA
+Colorado Avalanche,Carey Price  ,Goalie,75,216,27, CAN
+Colorado Avalanche,Jiri Sekac  ,L,74,195,22, CZE
+Colorado Avalanche,Jim Slater  ,C,72,195,32, USA
+Colorado Avalanche,Brayden McNabb  ,Defenseman,76,208,23, CAN
+Colorado Avalanche,Matt Cullen  ,C,73,200,38, USA
+Colorado Avalanche,Eric Nystrom   **,L,73,193,31, USA
+Colorado Avalanche,Adam Pardy  ,Defenseman,76,227,30, CAN
+Colorado Avalanche,Jack Hillen  ,Defenseman,70,190,28, USA
+Colorado Avalanche,Kari Lehtonen  ,Goalie,76,210,31, FIN
+Colorado Avalanche,Daniel Paille  ,L,73,200,30, CAN
+Colorado Avalanche,Matt Beleskey  ,L,72,204,26, CAN
+Colorado Avalanche,Torrey Mitchell  ,C,71,189,29, CAN
+Colorado Avalanche,Slava Voynov  ,Defenseman,72,194,25, RUS
+Colorado Avalanche,"Chris Kelly ""A"" ",C,72,198,34, CAN
+Colorado Avalanche,Karri Ramo   **,Goalie,74,206,28, FIN
+Colorado Avalanche,Clarke MacArthur  ,L,72,195,29, CAN
+Colorado Avalanche,Brian Elliott  ,Goalie,74,209,29, CAN
+Colorado Avalanche,Christian Thomas  ,L,69,176,22, CAN
+Colorado Avalanche,Zbynek Michalek  ,Defenseman,74,210,32, CZE
+Colorado Avalanche,Cody Goloubef  ,Defenseman,73,195,25, CAN
+Dallas Stars,"Marc-Edouard Vlasic ""A"" ",Defenseman,73,205,27, CAN
+Dallas Stars,Ben Bishop  ,Goalie,79,214,28, USA
+Dallas Stars,Martin Havlat  ,L,74,210,33, CZE
+Dallas Stars,Luke Witkowski  ,Defenseman,74,200,24, USA
+Dallas Stars,Nikolay Kulemin  ,L,73,226,28, RUS
+Dallas Stars,Mathieu Perreault  ,C,70,185,27, CAN
+Dallas Stars,Matt Bartkowski  ,Defenseman,73,196,26, USA
+Dallas Stars,Roman Josi  ,Defenseman,73,192,24, CHE
+Dallas Stars,Curtis McElhinney  ,Goalie,75,205,31, CAN
+Dallas Stars,Trevor van Riemsdyk   **,Defenseman,74,188,23, USA
+Dallas Stars,"Scottie Upshall ""A"" ",L,72,200,31, CAN
+Dallas Stars,Jonas Brodin  ,Defenseman,73,194,21, SWE
+Dallas Stars,Joakim Andersson  ,C,74,211,25, SWE
+Dallas Stars,Brandon Pirri  ,C,72,183,23, CAN
+Dallas Stars,Daniel Cleary  ,R,73,205,36, CAN
+Dallas Stars,"Henrik Sedin ""C"" ",C,74,188,34, SWE
+Dallas Stars,Sami Vatanen  ,Defenseman,70,180,23, FIN
+Dallas Stars,Carter Ashton  ,R,75,215,23, CAN
+Dallas Stars,Gregory Campbell  ,C,72,197,31, CAN
+Dallas Stars,Victor Hedman  ,Defenseman,78,233,24, SWE
+Dallas Stars,Xavier Ouellet  ,Defenseman,73,200,21, FRA
+Dallas Stars,"Mike Green ""A"" ",Defenseman,73,207,29, CAN
+Dallas Stars,Ron Hainsey  ,Defenseman,75,210,33, USA
+Dallas Stars,Mikael Granlund   **,C,70,185,22, FIN
+Dallas Stars,Nino Niederreiter  ,R,74,210,22, CHE
+Dallas Stars,Eric Gryba  ,Defenseman,76,225,26, CAN
+Minnesota Wild,Marcus Foligno   **,L,75,223,23, USA
+Minnesota Wild,Christopher Tanev  ,Defenseman,74,185,25, CAN
+Minnesota Wild,Calvin Pickard  ,Goalie,73,200,22, CAN
+Minnesota Wild,Jordan Caron  ,R,75,204,24, CAN
+Minnesota Wild,Christian Folin  ,Defenseman,75,214,23, SWE
+Minnesota Wild,Maxime Talbot  ,C,71,190,30, CAN
+Minnesota Wild,Rene Bourque  ,L,74,214,33, CAN
+Minnesota Wild,"P.K. Subban ""A"" ",Defenseman,72,214,25, CAN
+Minnesota Wild,Nick Holden  ,Defenseman,76,210,27, CAN
+Minnesota Wild,Mirco Mueller   **,Defenseman,75,205,19, CHE
+Minnesota Wild,Ondrej Pavelec  ,Goalie,75,218,27, CZE
+Minnesota Wild,Hampus Lindholm  ,Defenseman,75,205,20, SWE
+Minnesota Wild,Matt Carkner  ,Defenseman,77,233,34, CAN
+Minnesota Wild,Brad Boyes  ,R,72,195,32, CAN
+Minnesota Wild,"Dave Bolland ""A"" ",C,72,184,28, CAN
+Minnesota Wild,Andrew Cogliano  ,C,70,184,27, CAN
+Minnesota Wild,Jordie Benn  ,Defenseman,74,200,27, CAN
+Minnesota Wild,Leo Komarov  ,C,71,198,27, EST
+Minnesota Wild,Alexei Emelin  ,Defenseman,74,217,28, RUS
+Minnesota Wild,Tyler Seguin  ,C,73,200,22, CAN
+Minnesota Wild,Kevan Miller  ,Defenseman,74,210,27, USA
+Minnesota Wild,Ladislav Smid  ,Defenseman,75,209,28, CZE
+Minnesota Wild,Anton Stralman  ,Defenseman,71,190,28, SWE
+Minnesota Wild,Chris Pronger   **,Defenseman,78,220,40, CAN
+Minnesota Wild,Tomas Fleischmann  ,L,73,192,30, CZE
+Minnesota Wild,Andrej Nestrasil  ,C,75,200,23, CZE
+Minnesota Wild,Tye McGinn  ,L,74,205,24, CAN
+Nashville Predators,Richard Panik  ,R,73,208,23, SVK
+Nashville Predators,Ryan Strome  ,C,73,196,21, CAN
+Nashville Predators,Riley Nash  ,C,73,200,25, CAN
+Nashville Predators,Jaden Schwartz  ,L,70,190,22, CAN
+Nashville Predators,Matt Calvert  ,L,71,187,25, CAN
+Nashville Predators,Jay Harrison  ,Defenseman,76,220,32, CAN
+Nashville Predators,Nate Thompson  ,C,72,210,30, USA
+Nashville Predators,Yannick Weber  ,Defenseman,71,200,26, CHE
+Nashville Predators,Peter Harrold  ,Defenseman,71,180,31, USA
+Nashville Predators,Ben Scrivens  ,Goalie,74,181,28, CAN
+Nashville Predators,"Brooks Laich ""A"" ",C,74,210,31, CAN
+Nashville Predators,Kyle Turris  ,C,73,191,25, CAN
+Nashville Predators,Jason Spezza  ,C,75,220,31, CAN
+Nashville Predators,Marc-Andre Cliche  ,C,72,202,27, CAN
+Nashville Predators,Jay Beagle  ,R,75,215,29, CAN
+Nashville Predators,Matt Hendricks  ,L,72,211,33, USA
+Nashville Predators,"Tomas Plekanec ""A"" ",C,71,198,32, CZE
+Nashville Predators,Erik Condra  ,R,72,190,28, USA
+Nashville Predators,Barclay Goodrow  ,R,74,215,21, CAN
+Nashville Predators,Thomas Vanek  ,L,74,218,30, AUT
+Nashville Predators,"James Neal ""A"" ",L,74,208,27, CAN
+Nashville Predators,Rob Zepp  ,Goalie,72,181,33, CAN
+Nashville Predators,Adam McQuaid  ,Defenseman,77,209,28, CAN
+Nashville Predators,Luca Sbisa  ,Defenseman,74,198,24, ITA
+St. Louis Blues,"Stephane Robidas ""A"" ",Defenseman,71,190,37, CAN
+St. Louis Blues,John Erskine  ,Defenseman,76,220,34, CAN
+St. Louis Blues,Robert Bortuzzo  ,Defenseman,76,215,25, CAN
+St. Louis Blues,Mark Barberio  ,Defenseman,73,185,24, CAN
+St. Louis Blues,Jussi Jokinen  ,L,71,198,31, FIN
+St. Louis Blues,Teuvo Teravainen  ,C,71,178,20, FIN
+St. Louis Blues,Evander Kane  ,L,74,198,23, CAN
+St. Louis Blues,Teemu Pulkkinen  ,L,71,183,23, FIN
+St. Louis Blues,"Alexander Steen ""A"" ",L,71,212,30, CAN
+St. Louis Blues,Matt Niskanen  ,Defenseman,72,209,28, USA
+St. Louis Blues,Darren Helm  ,C,72,196,27, CAN
+St. Louis Blues,"Vernon Fiddler ""A"" ",C,71,205,34, CAN
+St. Louis Blues,Zack Kassian  ,R,75,214,23, CAN
+St. Louis Blues,Alex Killorn  ,C,74,205,25, CAN
+St. Louis Blues,Sergei Gonchar  ,Defenseman,74,210,40, RUS
+St. Louis Blues,Mike Ribeiro  ,C,72,177,34, CAN
+St. Louis Blues,Ryan Murray   **,Defenseman,73,208,21, CAN
+St. Louis Blues,Boyd Gordon  ,C,72,200,31, CAN
+St. Louis Blues,Alexander Semin  ,R,74,209,30, RUS
+St. Louis Blues,Jeff Petry  ,Defenseman,75,198,27, USA
+St. Louis Blues,Brian Boyle  ,C,79,244,30, USA
+St. Louis Blues,Mikkel Boedker  ,L,72,211,25, DNK
+St. Louis Blues,Jonathan Huberdeau  ,L,73,188,21, CAN
+St. Louis Blues,Melker Karlsson  ,C,72,180,24, SWE
+Winnipeg Jets,Matt Fraser  ,R,73,204,24, CAN
+Winnipeg Jets,Shawn Matthias  ,C,76,223,26, CAN
+Winnipeg Jets,"Bryce Salvador ""C""  **",Defenseman,75,215,38, CAN
+Winnipeg Jets,"Brian Gionta ""C""  **",R,67,176,35, USA
+Winnipeg Jets,Marian Hossa  ,R,73,207,36, SVK
+Winnipeg Jets,Tyler Pitlick   **,R,72,202,23, USA
+Winnipeg Jets,Lars Eller  ,C,74,209,25, DNK
+Winnipeg Jets,Matt Nieto  ,L,71,190,22, USA
+Winnipeg Jets,Zach Bogosian  ,Defenseman,75,225,24, USA
+Winnipeg Jets,"Mike Fisher ""A"" ",C,73,215,34, CAN
+Winnipeg Jets,Jamie McBain  ,Defenseman,73,181,26, USA
+Winnipeg Jets,Jake Gardiner  ,Defenseman,74,184,24, USA
+Winnipeg Jets,Kris Versteeg  ,L,71,176,28, CAN
+Winnipeg Jets,Jhonas Enroth  ,Goalie,70,166,26, SWE
+Winnipeg Jets,Olli Maatta   **,Defenseman,74,206,20, FIN
+Winnipeg Jets,Jiri Tlusty  ,L,72,209,26, CZE
+Winnipeg Jets,Jakub Kindl   **,Defenseman,75,199,27, CZE
+Winnipeg Jets,Jason Demers  ,Defenseman,73,195,26, CAN
+Winnipeg Jets,"Chris Kunitz ""A"" ",L,72,195,35, CAN
+Winnipeg Jets,Jordan Eberle  ,R,71,183,24, CAN
+Winnipeg Jets,Matt Martin  ,L,75,215,25, CAN
+Winnipeg Jets,David Schlemko  ,Defenseman,73,190,27, CAN
+Winnipeg Jets,Justin Peters  ,Goalie,73,210,28, CAN
+Winnipeg Jets,Jimmy Hayes  ,R,78,221,25, USA
+Winnipeg Jets,Oliver Ekman-Larsson  ,Defenseman,74,200,23, SWE
+Boston Bruins,Shawn Horcoff  ,C,73,205,36, CAN
+Boston Bruins,Fedor Tyutin  ,Defenseman,74,212,31, RUS
+Boston Bruins,"Evgeni Malkin ""A"" ",C,75,195,28, RUS
+Boston Bruins,Andrej Sustr  ,Defenseman,80,225,24, CZE
+Boston Bruins,Milan Michalek  ,L,74,216,30, CZE
+Boston Bruins,Daniel Briere  ,C,69,174,37, CAN
+Boston Bruins,Craig Cunningham  ,R,70,184,24, CAN
+Boston Bruins,Ryan Garbutt  ,L,72,195,29, CAN
+Boston Bruins,David Booth  ,L,72,212,30, USA
+Boston Bruins,Brent Seabrook  ,Defenseman,75,220,29, CAN
+Boston Bruins,James Wisniewski  ,Defenseman,71,203,30, USA
+Boston Bruins,Tim Gleason  ,Defenseman,72,217,31, USA
+Boston Bruins,Erik Johnson  ,Defenseman,76,232,26, USA
+Boston Bruins,Cody McCormick   **,C,74,224,31, CAN
+Boston Bruins,Brandon Gormley   **,Defenseman,74,196,22, CAN
+Boston Bruins,Beau Bennett  ,R,74,195,23, USA
+Boston Bruins,Rob Scuderi  ,Defenseman,73,212,36, USA
+Boston Bruins,Tomas Jurco  ,R,73,203,22, SVK
+Boston Bruins,Nate Guenin  ,Defenseman,75,207,32, USA
+Boston Bruins,Alexandre Burrows  ,R,73,188,33, CAN
+Boston Bruins,John Carlson  ,Defenseman,75,212,25, USA
+Boston Bruins,Calle Jarnkrok  ,C,71,156,23, SWE
+Boston Bruins,Damon Severson   **,Defenseman,74,205,20, CAN
+Buffalo Sabres,Brian McGrattan  ,R,76,235,33, CAN
+Buffalo Sabres,Nicolas Deslauriers  ,L,73,209,23, CAN
+Buffalo Sabres,Dmitrij Jaskin  ,R,74,196,21, RUS
+Buffalo Sabres,Bobby Ryan  ,R,74,207,27, USA
+Buffalo Sabres,Brett Connolly  ,R,74,181,22, CAN
+Buffalo Sabres,Lucas Lessio  ,L,73,212,21, CAN
+Buffalo Sabres,"Jordan Staal ""A"" ",C,76,220,26, CAN
+Buffalo Sabres,Patrick Dwyer  ,R,71,175,31, USA
+Buffalo Sabres,Alec Martinez  ,Defenseman,73,209,27, USA
+Buffalo Sabres,"Cody McLeod ""A"" ",L,74,210,30, CAN
+Buffalo Sabres,Sean Bergenheim  ,L,70,201,30, FIN
+Buffalo Sabres,Nail Yakupov  ,R,71,197,21, RUS
+Buffalo Sabres,Brad Marchand  ,L,69,183,26, CAN
+Buffalo Sabres,Victor Rask  ,C,74,200,21, SWE
+Buffalo Sabres,Tyson Barrie  ,Defenseman,70,190,23, CAN
+Buffalo Sabres,Travis Moen  ,L,74,212,32, CAN
+Buffalo Sabres,Mark Fistric  ,Defenseman,74,225,28, CAN
+Buffalo Sabres,Ryan Ellis   **,Defenseman,70,175,24, CAN
+Buffalo Sabres,"Anze Kopitar ""A"" ",C,75,224,27, SVN
+Buffalo Sabres,Raphael Diaz  ,Defenseman,71,197,29, CHE
+Buffalo Sabres,Brendan Gallagher  ,R,69,182,22, CAN
+Buffalo Sabres,"Eric Staal ""C"" ",C,76,205,30, CAN
+Buffalo Sabres,Marco Scandella   **,Defenseman,73,205,24, CAN
+Buffalo Sabres,Boone Jenner   **,C,74,208,21, CAN
+Buffalo Sabres,Toby Enstrom  ,Defenseman,70,180,30, SWE
+Detroit Red Wings,Scott Hannan  ,Defenseman,73,215,35, CAN
+Detroit Red Wings,Carl Gunnarsson  ,Defenseman,74,196,28, SWE
+Detroit Red Wings,Dmitry Kulikov  ,Defenseman,73,204,24, RUS
+Detroit Red Wings,"Jamie Benn ""C"" ",L,74,210,25, CAN
+Detroit Red Wings,Milan Lucic  ,L,75,235,26, CAN
+Detroit Red Wings,Colin Greening  ,L,75,210,28, CAN
+Detroit Red Wings,Zac Rinaldo  ,C,71,169,24, CAN
+Detroit Red Wings,"Curtis Glencross ""A"" ",L,73,197,32, CAN
+Detroit Red Wings,Marek Zidlicky  ,Defenseman,71,190,37, CZE
+Detroit Red Wings,Chris Thorburn  ,R,75,235,31, CAN
+Detroit Red Wings,Mark Arcobello  ,R,68,172,26, USA
+Detroit Red Wings,Johan Franzen   **,R,76,232,35, SWE
+Detroit Red Wings,Greg McKegg  ,C,72,191,22, CAN
+Detroit Red Wings,Michal Rozsival  ,Defenseman,73,210,36, CZE
+Detroit Red Wings,Tyson Strachan  ,Defenseman,75,215,30, CAN
+Detroit Red Wings,Victor Bartley  ,Defenseman,72,203,26, CAN
+Detroit Red Wings,Nikita Kucherov  ,R,71,171,21, RUS
+Detroit Red Wings,Paul Stastny  ,C,72,205,29, CAN
+Detroit Red Wings,"Joe Thornton ""A"" ",C,76,220,35, CAN
+Detroit Red Wings,Dalton Prout  ,Defenseman,75,222,24, CAN
+Detroit Red Wings,"Daniel Sedin ""A"" ",L,73,187,34, SWE
+Detroit Red Wings,Manny Malhotra  ,C,74,207,34, CAN
+Detroit Red Wings,Mason Raymond  ,L,72,185,29, CAN
+Detroit Red Wings,Tim Jackman  ,R,74,224,33, USA
+Detroit Red Wings,Jordan Leopold  ,Defenseman,73,206,34, USA
+Detroit Red Wings,Martin Brodeur  ,Goalie,74,220,42, CAN
+Detroit Red Wings,Antti Raanta  ,Goalie,72,193,25, FIN
+Florida Panthers,Cam Ward  ,Goalie,73,185,30, CAN
+Florida Panthers,Patrick Kane  ,R,71,177,26, USA
+Florida Panthers,"Joffrey Lupul ""A""  **",L,73,206,31, CAN
+Florida Panthers,Tyler Ennis  ,C,69,169,25, CAN
+Florida Panthers,Dylan Olsen  ,Defenseman,74,223,24, USA
+Florida Panthers,Justin Braun  ,Defenseman,74,205,27, USA
+Florida Panthers,Jaroslav Halak  ,Goalie,71,186,29, SVK
+Florida Panthers,Jason Garrison  ,Defenseman,74,218,30, CAN
+Florida Panthers,"Jonathan Toews ""C"" ",C,74,201,26, CAN
+Florida Panthers,Gustav Nyquist  ,R,71,183,25, SWE
+Florida Panthers,Michael Raffl  ,L,72,195,26, AUT
+Florida Panthers,Josh Jooris   **,C,72,180,24, CAN
+Florida Panthers,Tobias Rieder  ,R,71,185,22, DEU
+Florida Panthers,Tom McCollum  ,Goalie,74,226,25, USA
+Florida Panthers,David Clarkson  ,R,73,200,30, CAN
+Florida Panthers,Jeff Carter  ,C,76,212,30, CAN
+Florida Panthers,Johnny Boychuk  ,Defenseman,74,225,30, CAN
+Florida Panthers,Cal Clutterbuck  ,R,71,215,27, CAN
+Florida Panthers,Drew Miller  ,L,74,180,30, USA
+Florida Panthers,John-Michael Liles  ,Defenseman,70,185,34, USA
+Florida Panthers,Pekka Rinne  ,Goalie,77,204,32, FIN
+Florida Panthers,Andre Benoit  ,Defenseman,71,191,31, CAN
+Florida Panthers,Morgan Rielly  ,Defenseman,73,205,20, CAN
+Montreal Canadiens,Paul Gaustad  ,C,77,223,32, USA
+Montreal Canadiens,Anthony Peluso  ,R,75,235,25, CAN
+Montreal Canadiens,Cody Ceci  ,Defenseman,75,209,21, CAN
+Montreal Canadiens,Petr Mrazek  ,Goalie,74,183,22, CZE
+Montreal Canadiens,Brad Richardson  ,R,72,197,29, CAN
+Montreal Canadiens,Tim Erixon  ,Defenseman,74,200,23, USA
+Montreal Canadiens,Anders Lee  ,C,75,227,24, USA
+Montreal Canadiens,Pierre-Edouard Bellemare  ,L,72,198,29, FRA
+Montreal Canadiens,Tanner Pearson   **,L,73,200,22, CAN
+Montreal Canadiens,Clayton Stoner  ,Defenseman,75,212,29, CAN
+Montreal Canadiens,Mike Cammalleri  ,L,69,190,32, CAN
+Montreal Canadiens,Mike Hoffman  ,L,72,185,25, CAN
+Montreal Canadiens,Erik Cole  ,L,74,205,36, USA
+Montreal Canadiens,Deryk Engelland  ,Defenseman,74,215,32, CAN
+Montreal Canadiens,Pierre-Alexandre Parenteau  ,R,72,197,31, CAN
+Montreal Canadiens,Seth Jones  ,Defenseman,76,205,20, USA
+Montreal Canadiens,Andrew Ference  ,Defenseman,71,184,35, CAN
+Montreal Canadiens,Markus Granlund  ,C,71,185,21, FIN
+Montreal Canadiens,Braden Holtby  ,Goalie,74,203,25, CAN
+Montreal Canadiens,John Mitchell  ,C,73,204,29, CAN
+Montreal Canadiens,Matt Read  ,R,70,185,28, CAN
+Montreal Canadiens,"Francois Beauchemin ""A"" ",Defenseman,73,208,34, CAN
+Montreal Canadiens,Dennis Wideman  ,Defenseman,72,200,31, CAN
+Ottawa Senators,David Savard  ,Defenseman,74,219,24, CAN
+Ottawa Senators,Artem Anisimov   **,C,76,198,26, RUS
+Ottawa Senators,Ales Hemsky  ,R,72,185,31, CZE
+Ottawa Senators,"Jarome Iginla ""A"" ",R,73,210,37, CAN
+Ottawa Senators,Loui Eriksson  ,R,74,196,29, SWE
+Ottawa Senators,"Steven Stamkos ""C"" ",C,72,190,24, CAN
+Ottawa Senators,Craig Adams  ,R,72,200,37, BRN
+Ottawa Senators,Jesse Winchester   **,C,73,205,31, CAN
+Ottawa Senators,Ryan Callahan  ,R,71,190,29, USA
+Ottawa Senators,Ryan Kesler  ,C,74,208,30, USA
+Ottawa Senators,Antoine Roussel  ,L,72,200,25, FRA
+Ottawa Senators,"Willie Mitchell ""C"" ",Defenseman,75,210,37, CAN
+Ottawa Senators,Carter Hutton  ,Goalie,73,195,29, CAN
+Ottawa Senators,Jarret Stoll  ,C,73,213,32, CAN
+Ottawa Senators,Eric Boulton  ,L,72,225,38, CAN
+Ottawa Senators,Tim Sestito  ,L,71,195,30, USA
+Ottawa Senators,John Scott  ,L,80,260,32, CAN
+Ottawa Senators,"Derek MacKenzie ""A"" ",C,71,181,33, CAN
+Ottawa Senators,Cody Hodgson  ,C,72,192,24, CAN
+Ottawa Senators,Thomas Greiss  ,Goalie,73,220,28, DEU
+Ottawa Senators,Matt Irwin  ,Defenseman,74,210,27, CAN
+Ottawa Senators,James Reimer  ,Goalie,74,208,26, CAN
+Ottawa Senators,Alex Chiasson  ,R,76,205,24, CAN
+Ottawa Senators,Nazem Kadri  ,C,72,188,24, CAN
+Ottawa Senators,Justin Faulk  ,Defenseman,72,215,22, USA
+Tampa Bay Lightning,"Martin Hanzal ""A"" ",C,78,226,27, CZE
+Tampa Bay Lightning,"Chris Neil ""A""  **",R,73,215,35, CAN
+Tampa Bay Lightning,Chris Terry  ,L,70,195,25, CAN
+Tampa Bay Lightning,Tommy Wingels  ,C,72,200,26, USA
+Tampa Bay Lightning,Logan Couture  ,C,73,200,25, CAN
+Tampa Bay Lightning,Matt Donovan  ,Defenseman,73,205,24, USA
+Tampa Bay Lightning,Ryan Nugent-Hopkins  ,C,72,190,21, CAN
+Tampa Bay Lightning,"Jared Boll ""A"" ",R,75,214,28, USA
+Tampa Bay Lightning,Joe Vitale  ,C,71,205,29, USA
+Tampa Bay Lightning,Daniel Carcillo  ,L,72,200,29, CAN
+Tampa Bay Lightning,Patric Hornqvist   **,R,71,189,28, SWE
+Tampa Bay Lightning,"Barret Jackman ""A"" ",Defenseman,72,203,33, CAN
+Tampa Bay Lightning,Tom Gilbert  ,Defenseman,74,204,32, USA
+Tampa Bay Lightning,Josh Bailey  ,L,73,194,25, CAN
+Tampa Bay Lightning,John Klingberg  ,Defenseman,74,180,22, SWE
+Tampa Bay Lightning,"Gabriel Landeskog ""C"" ",L,73,210,22, SWE
+Tampa Bay Lightning,Mark Scheifele  ,C,75,198,21, CAN
+Tampa Bay Lightning,Craig Anderson  ,Goalie,74,184,33, USA
+Tampa Bay Lightning,Nathan Beaulieu  ,Defenseman,74,194,22, CAN
+Tampa Bay Lightning,Ondrej Palat  ,L,72,180,23, CZE
+Tampa Bay Lightning,Jake Allen  ,Goalie,74,195,24, CAN
+Tampa Bay Lightning,Antoine Vermette  ,C,73,198,32, CAN
+Tampa Bay Lightning,Michael Del Zotto  ,Defenseman,72,195,24, CAN
+Tampa Bay Lightning,Vladimir Tarasenko  ,R,72,219,23, RUS
+Tampa Bay Lightning,Riley Sheahan  ,C,75,222,23, CAN
+Toronto Maple Leafs,Evgeny Kuznetsov  ,C,72,172,22, RUS
+Toronto Maple Leafs,Josh Anderson  ,R,75,212,20, CAN
+Toronto Maple Leafs,Anton Lander  ,C,72,186,23, SWE
+Toronto Maple Leafs,Eddie Lack  ,Goalie,76,187,27, SWE
+Toronto Maple Leafs,Sergei Bobrovsky  ,Goalie,74,182,26, RUS
+Toronto Maple Leafs,Nick Leddy  ,Defenseman,72,194,23, USA
+Toronto Maple Leafs,Alexander Wennberg  ,C,73,190,20, SWE
+Toronto Maple Leafs,Brian Strait  ,Defenseman,73,209,27, USA
+Toronto Maple Leafs,"Patrick Marleau ""A"" ",L,74,220,35, CAN
+Toronto Maple Leafs,Tyler Myers  ,Defenseman,80,219,24, USA
+Toronto Maple Leafs,Mika Zibanejad  ,C,74,211,21, SWE
+Toronto Maple Leafs,Steve Mason  ,Goalie,76,217,26, CAN
+Toronto Maple Leafs,Dale Weise  ,R,74,205,26, CAN
+Toronto Maple Leafs,Valtteri Filppula  ,C,72,195,30, FIN
+Toronto Maple Leafs,Mark Borowiecki   **,Defenseman,74,205,25, CAN
+Toronto Maple Leafs,Michael Hutchinson  ,Goalie,75,202,24, CAN
+Toronto Maple Leafs,Devan Dubnyk  ,Goalie,78,210,28, CAN
+Toronto Maple Leafs,Drew Shore  ,C,75,205,23, USA
+Toronto Maple Leafs,Borna Rendulic  ,R,74,200,22, HRV
+Toronto Maple Leafs,David Moss  ,R,76,210,33, USA
+Toronto Maple Leafs,Patrik Berglund  ,C,75,217,26, SWE
+Toronto Maple Leafs,Rickard Rakell  ,C,72,201,21, SWE
+Toronto Maple Leafs,"Erik Karlsson ""C"" ",Defenseman,72,180,24, SWE
+Carolina Hurricanes,Dwight King  ,L,76,230,25, CAN
+Carolina Hurricanes,Mike Santorelli  ,C,72,189,29, CAN
+Carolina Hurricanes,Ryan Stanton  ,Defenseman,74,196,25, CAN
+Carolina Hurricanes,Jannik Hansen  ,R,73,195,28, DNK
+Carolina Hurricanes,Chris Butler  ,Defenseman,73,196,28, USA
+Carolina Hurricanes,"Zach Parise ""A"" ",L,71,197,30, USA
+Carolina Hurricanes,Andrew Desjardins  ,C,73,195,28, CAN
+Carolina Hurricanes,"Pavel Datsyuk ""A"" ",C,71,194,36, RUS
+Carolina Hurricanes,Taylor Hall  ,L,73,198,23, CAN
+Carolina Hurricanes,Rasmus Ristolainen  ,Defenseman,76,219,20, FIN
+Carolina Hurricanes,Zach Redmond  ,Defenseman,74,205,26, USA
+Carolina Hurricanes,"Corey Perry ""A"" ",R,75,213,29, CAN
+Carolina Hurricanes,"Shane Doan ""C"" ",R,73,223,38, CAN
+Carolina Hurricanes,Keith Aulie  ,Defenseman,78,222,25, CAN
+Carolina Hurricanes,Nick Bjugstad  ,C,78,218,22, USA
+Carolina Hurricanes,Martin Erat  ,R,72,196,33, CZE
+Carolina Hurricanes,Marc-Andre Fleury  ,Goalie,74,180,30, CAN
+Carolina Hurricanes,Curtis Lazar  ,C,72,196,19, CAN
+Carolina Hurricanes,Casey Cizikas  ,C,71,201,23, CAN
+Carolina Hurricanes,Marc Methot  ,Defenseman,75,230,29, CAN
+Carolina Hurricanes,Philip Samuelsson  ,Defenseman,74,194,23, SWE
+Carolina Hurricanes,Michael Latta  ,C,72,209,23, CAN
+Carolina Hurricanes,Braydon Coburn   **,Defenseman,77,220,29, CAN
+Columbus Blue Jackets,"Frans Nielsen ""A"" ",C,73,190,30, DNK
+Columbus Blue Jackets,Ray Emery  ,Goalie,74,196,32, CAN
+Columbus Blue Jackets,Brian Gibbons   **,C,68,170,26, USA
+Columbus Blue Jackets,Jonathan Quick  ,Goalie,73,220,28, USA
+Columbus Blue Jackets,Zach Sill  ,C,72,202,26, CAN
+Columbus Blue Jackets,Devante Smith-Pelly  ,R,72,220,22, CAN
+Columbus Blue Jackets,"Keith Yandle ""A"" ",Defenseman,73,190,28, USA
+Columbus Blue Jackets,Grant Clitsome   **,Defenseman,71,211,29, CAN
+Columbus Blue Jackets,Danny DeKeyser  ,Defenseman,75,191,24, USA
+Columbus Blue Jackets,Erik Haula  ,C,71,188,23, FIN
+Columbus Blue Jackets,Radim Vrbata  ,R,73,194,33, CZE
+Columbus Blue Jackets,Ryan Carter  ,C,73,205,31, USA
+Columbus Blue Jackets,Peter Holland   **,C,74,194,24, CAN
+Columbus Blue Jackets,Ryane Clowe   **,L,75,225,32, CAN
+Columbus Blue Jackets,Viktor Fasth  ,Goalie,72,181,32, SWE
+Columbus Blue Jackets,Antti Niemi  ,Goalie,74,210,31, FIN
+Columbus Blue Jackets,Travis Hamonic  ,Defenseman,74,217,24, CAN
+Columbus Blue Jackets,Marian Gaborik  ,R,73,204,32, SVK
+Columbus Blue Jackets,"Travis Zajac ""A"" ",C,75,205,29, CAN
+Columbus Blue Jackets,Scott Gomez  ,C,71,200,35, USA
+Columbus Blue Jackets,Michael Bournival  ,L,71,195,22, CAN
+Columbus Blue Jackets,Chris Stewart  ,R,74,231,27, CAN
+Columbus Blue Jackets,Andrew Ebbett  ,C,69,174,32, CAN
+Columbus Blue Jackets,David Rundblad  ,Defenseman,74,187,24, SWE
+Columbus Blue Jackets,Matt Tennyson  ,Defenseman,74,205,24, USA
+Columbus Blue Jackets,Phil Kessel  ,R,72,202,27, USA
+Columbus Blue Jackets,Dan Hamhuis  ,Defenseman,73,209,32, CAN
+Columbus Blue Jackets,Maxim Lapierre  ,C,74,215,29, CAN
+New Jersey Devils,Justin Falk   **,Defenseman,77,215,26, CAN
+New Jersey Devils,Connor Murphy  ,Defenseman,76,212,21, USA
+New Jersey Devils,"Henrik Zetterberg ""C"" ",L,72,195,34, SWE
+New Jersey Devils,Torey Krug  ,Defenseman,69,181,23, USA
+New Jersey Devils,Justin Williams  ,R,73,189,33, CAN
+New Jersey Devils,David Jones  ,R,74,210,30, CAN
+New Jersey Devils,Tyler Johnson  ,C,69,182,24, USA
+New Jersey Devils,"Andy Greene ""A"" ",Defenseman,71,190,32, USA
+New Jersey Devils,"Joe Pavelski ""A"" ",C,71,190,30, USA
+New Jersey Devils,Taylor Beck  ,L,74,203,23, CAN
+New Jersey Devils,Vincent Lecavalier  ,C,76,215,34, CAN
+New Jersey Devils,Derek Roy  ,C,69,184,31, CAN
+New Jersey Devils,Jonas Hiller  ,Goalie,74,192,32, CHE
+New Jersey Devils,Kyle Palmieri  ,R,71,196,23, USA
+New Jersey Devils,Pascal Dupuis   **,R,73,205,35, CAN
+New Jersey Devils,Brenden Morrow  ,L,72,205,36, CAN
+New Jersey Devils,Lauri Korpikoski  ,L,73,205,28, FIN
+New Jersey Devils,James Sheppard  ,L,73,215,26, CAN
+New Jersey Devils,Jakub Voracek  ,R,74,214,25, CZE
+New Jersey Devils,Andre Burakovsky  ,L,75,198,19, AUT
+New Jersey Devils,Linden Vey  ,R,72,189,23, CAN
+New Jersey Devils,Luke Gazdic  ,L,76,233,25, CAN
+New Jersey Devils,Michael Grabner  ,R,73,202,27, AUT
+New Jersey Devils,Dennis Seidenberg  ,Defenseman,73,210,33, DEU
+New Jersey Devils,Bo Horvat  ,C,72,206,19, CAN
+New Jersey Devils,Nicklas Grossmann   **,Defenseman,76,230,29, SWE
+New Jersey Devils,Cory Schneider  ,Goalie,74,205,28, USA
+New Jersey Devils,Matt Cooke  ,L,71,216,36, CAN
+New York Rangers,Jan Hejda  ,Defenseman,76,230,36, CZE
+New York Rangers,Joakim Lindstrom  ,C,72,187,31, SWE
+New York Rangers,Mark Fayne  ,Defenseman,75,215,27, USA
+New York Rangers,Eric Fehr  ,R,76,212,29, CAN
+New York Rangers,Jordan Schroeder  ,C,69,176,24, USA
+New York Rangers,"Mark Stuart ""A"" ",Defenseman,74,213,30, USA
+New York Rangers,Colin Wilson  ,C,73,216,25, USA
+New York Rangers,J.T. Brown  ,R,70,170,24, USA
+New York Rangers,Brooks Orpik  ,Defenseman,74,219,34, USA
+New York Rangers,Dennis Everberg  ,R,76,205,23, SWE
+New York Rangers,Ryan Murphy  ,Defenseman,71,185,21, CAN
+New York Rangers,Troy Brouwer  ,R,75,213,29, CAN
+New York Rangers,"Chris Phillips ""A"" ",Defenseman,75,220,36, CAN
+New York Rangers,Brad Malone  ,C,74,207,25, CAN
+New York Rangers,Nikita Zadorov  ,Defenseman,77,220,19, RUS
+New York Rangers,Jonathan Bernier  ,Goalie,72,185,26, CAN
+New York Rangers,Andrej Meszaros  ,Defenseman,74,223,29, SVK
+New York Rangers,Patrick Wiercioch  ,Defenseman,77,206,24, CAN
+New York Rangers,Tom Wilson  ,R,76,210,20, CAN
+New York Rangers,Steve Oleksy  ,Defenseman,72,190,28, USA
+New York Rangers,Alex Goligoski  ,Defenseman,71,190,29, USA
+New York Rangers,Eric Brewer   **,Defenseman,76,216,35, CAN
+New York Rangers,Michael Ryder  ,R,73,200,34, CAN
+New York Rangers,Brad Richards  ,C,72,199,34, CAN
+New York Rangers,Eric Gelinas  ,Defenseman,76,215,23, CAN
+Philadelphia Flyers,Jonas Gustavsson   **,Goalie,76,212,30, SWE
+Philadelphia Flyers,"Nicklas Backstrom ""A"" ",C,73,208,27, SWE
+Philadelphia Flyers,Kevin Shattenkirk  ,Defenseman,71,207,25, USA
+Philadelphia Flyers,Steve Ott  ,C,72,189,32, CAN
+Philadelphia Flyers,"Duncan Keith ""A"" ",Defenseman,73,192,31, CAN
+Philadelphia Flyers,Joe Whitney  ,L,66,170,26, USA
+Philadelphia Flyers,Cam Atkinson  ,R,68,174,25, USA
+Philadelphia Flyers,Reilly Smith  ,R,72,185,23, CAN
+Philadelphia Flyers,Jeff Skinner  ,L,71,200,22, CAN
+Philadelphia Flyers,Matt Stajan  ,C,73,192,31, CAN
+Philadelphia Flyers,Brian Lashoff  ,Defenseman,75,221,24, USA
+Philadelphia Flyers,"Dustin Brown ""C"" ",R,72,207,30, USA
+Philadelphia Flyers,Chris Porter   **,L,73,206,30, CAN
+Philadelphia Flyers,"Dion Phaneuf ""C"" ",Defenseman,75,214,29, CAN
+Philadelphia Flyers,Michael Stone  ,Defenseman,75,210,24, CAN
+Philadelphia Flyers,Carlo Colaiacovo  ,Defenseman,73,200,31, CAN
+Philadelphia Flyers,Dainius Zubrus  ,L,77,225,36, LTU
+Philadelphia Flyers,Jared Cowen  ,Defenseman,77,228,23, CAN
+Philadelphia Flyers,Ryan O'Reilly  ,C,72,210,23, CAN
+Philadelphia Flyers,Joel Ward  ,R,73,226,34, CAN
+Philadelphia Flyers,Paul Byron  ,C,67,153,25, CAN
+Philadelphia Flyers,Colton Sceviour  ,C,72,200,25, CAN
+Philadelphia Flyers,"Trevor Daley ""A"" ",Defenseman,71,195,31, CAN
+Philadelphia Flyers,Patrick Maroon  ,L,74,231,26, USA
+Philadelphia Flyers,Gabriel Bourque  ,L,70,192,24, CAN
+Pittsburgh Penguins,Keith Ballard   **,Defenseman,71,204,32, USA
+Pittsburgh Penguins,Steve Downie  ,R,71,191,27, CAN
+Pittsburgh Penguins,Michael Frolik  ,R,73,200,26, CZE
+Pittsburgh Penguins,Brandon McMillan  ,L,71,190,24, CAN
+Pittsburgh Penguins,Chad Johnson  ,Goalie,75,193,28, CAN
+Pittsburgh Penguins,Nathan MacKinnon  ,C,72,195,19, CAN
+Pittsburgh Penguins,Charlie Coyle  ,C,75,221,22, USA
+Pittsburgh Penguins,"Patrice Bergeron ""A"" ",C,74,194,29, CAN
+Pittsburgh Penguins,"Mark Giordano ""C"" ",Defenseman,72,200,31, CAN
+Pittsburgh Penguins,Tuukka Rask  ,Goalie,74,185,27, FIN
+Pittsburgh Penguins,Brandon Prust  ,L,72,195,30, CAN
+Pittsburgh Penguins,Al Montoya  ,Goalie,74,203,29, USA
+Pittsburgh Penguins,Blake Comeau   **,L,73,202,28, CAN
+Pittsburgh Penguins,Jason Pominville  ,R,72,187,32, CAN
+Pittsburgh Penguins,"John Tavares ""C"" ",C,73,209,24, CAN
+Pittsburgh Penguins,Stephen Weiss  ,C,71,190,31, CAN
+Pittsburgh Penguins,"Matt Moulson ""A"" ",L,73,200,31, CAN
+Pittsburgh Penguins,Kevin Connauton  ,Defenseman,74,200,24, CAN
+Pittsburgh Penguins,Dougie Hamilton  ,Defenseman,77,212,21, CAN
+Pittsburgh Penguins,Andy Andreoff  ,L,73,207,23, CAN
+Pittsburgh Penguins,Cody Franson  ,Defenseman,77,213,27, CAN
+Pittsburgh Penguins,Darcy Kuemper   **,Goalie,77,205,24, CAN
+Pittsburgh Penguins,Nick Foligno  ,L,72,210,27, USA
+Pittsburgh Penguins,"T.J. Oshie ""A"" ",R,71,189,28, USA
+Pittsburgh Penguins,Radko Gudas  ,Defenseman,72,204,24, CZE
+Pittsburgh Penguins,Vincent Trocheck  ,C,70,182,21, USA
+Washington Capitals,Jay McClement  ,C,73,205,31, CAN
+Washington Capitals,Lubomir Visnovsky  ,Defenseman,70,192,38, SVK
+Washington Capitals,Calvin de Haan  ,Defenseman,73,193,23, CAN
+Washington Capitals,Trevor Lewis  ,C,73,198,28, USA
+Washington Capitals,Ilya Bryzgalov  ,Goalie,75,213,34, RUS
+Washington Capitals,Cam Fowler  ,Defenseman,73,211,23, CAN
+Washington Capitals,"Andrei Markov ""A"" ",Defenseman,72,197,36, RUS
+Washington Capitals,Marcel Goc  ,C,73,197,31, DEU
+Washington Capitals,Mikael Backlund  ,C,72,198,25, SWE
+Washington Capitals,Corey Tropp  ,R,72,185,25, USA
+Washington Capitals,Evgeni Nabokov  ,Goalie,72,202,39, KAZ
+Washington Capitals,Niklas Hjalmarsson  ,Defenseman,75,197,27, SWE
+Washington Capitals,Mikhail Grabovski  ,C,71,183,30, DEU
+Washington Capitals,Niklas Svedberg  ,Goalie,72,176,25, SWE
+Washington Capitals,Ian Cole  ,Defenseman,73,219,25, USA
+Washington Capitals,Jimmy Howard   **,Goalie,73,218,30, USA
+Washington Capitals,Jiri Hudler  ,C,70,186,31, CZE
+Washington Capitals,Marcus Johansson  ,C,73,205,24, SWE
+Washington Capitals,Brandon Bollig  ,L,74,223,27, USA
+Washington Capitals,Tomas Tatar  ,L,70,185,24, SVK
+Washington Capitals,Paul Martin  ,Defenseman,73,200,33, USA
+Washington Capitals,Keith Kinkaid  ,Goalie,74,195,25, USA
+Washington Capitals,Matt Halischuk  ,R,71,180,26, CAN

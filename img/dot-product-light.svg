@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="114.4" height="179.2" version="1.1" style="stroke-width:1.26;">
+<defs>
+	<marker id="id1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#999999; stroke:#999999; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="id3" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ffff3e; stroke:#ffff3e; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(-4141.72,-1938.02)">
+	<path style="fill:none; stroke:#ffff3e;" d="m 4187.6,2063.1 44.4,-22.4"/>
+	<rect x="3551" y="-2989.9" width="130.2" height="50.2" transform="rotate(65.3164)" style="opacity:0.16; fill:#ffff00; stroke-width:2.13;"/>
+	<g style="opacity:0.65;" transform="matrix(0.037987,0.075169,-0.121103,0.0612,4234.57,1950.29)">
+		<path style="fill:#ff0000; stroke:#421313; stroke-width:12.89;" d="m -361.2,390.3 c -0.5,0 -1,0.4 -1,0.8 v 1.1 h -102.5 c -0.4,0 -0.8,0.3 -0.8,0.6 v 0.5 c -24.9,2.3 -44.8,50.7 -44.8,110 0,59.3 19.9,107.7 44.8,110 0,0.3 0.4,0.6 0.8,0.6 h 102.5 v 0.7 c 0,0.5 0.5,0.8 1,0.8 h 349.3 c 0.5,0 1,-0.4 1,-0.8 V 391.1 c 0,-0.5 -0.4,-0.8 -1,-0.8 z"/>
+		<path style="fill:#ff0000; stroke:#421313; stroke-width:12.89;" d="m -32.3,329.3 c -0.6,0 -1,0.4 -1,1 v 0.8 c -33,3.7 -59.3,79.4 -59.3,172.2 0,92.8 26.4,168.6 59.3,172.2 0,0.5 0.4,0.9 1,0.9 H 139.9 c 0.6,0 1,-0.4 1,-1 V 330.3 c 0,-0.6 -0.4,-1 -1,-1 z"/>
+		<ellipse cx="100" cy="488.1" rx="142.9" ry="184.3" transform="matrix(0.432799,0,0,0.935138,98.3776,46.4718)" style="fill:#ffff00; stroke:#421313; stroke-width:12.89;"/>
+		<rect x="-286.5" y="369.7" rx="2.9" ry="1.8" width="130.1" height="32.6" style="fill:#560000; stroke:#421313; stroke-width:8.2;"/>
+	</g>
+	<path style="marker-end:url(#id1); fill:none; stroke:black;" d="m 4187.6,2064.1 66.3,-33.7"/>
+	<path style="fill:#666666; fill-opacity:0.12; stroke-width:0.5;" d="m 4189.4,2063 18.2,-58.2 18,38.7 z"/>
+	<path style="marker-end:url(#id2); fill:#cccccc; stroke:#999999; stroke-width:1.96;" d="m 4188.3,2063.7 35.5,-18.2"/>
+	<path style="marker-end:url(#id1); fill:none; stroke:black;" d="m 4187.5,2064.5 19,-58"/>
+	<path style="marker-end:url(#id3); fill:none; stroke:#ffff3e;" d="m 4186.8,2063 19,-58"/>
+</g>
+</svg>
